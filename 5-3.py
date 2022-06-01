@@ -65,3 +65,6 @@ Today = calc_daycount_and_dayofweek(today)
 print('Target {}'.format(Target['dayofweek']))
 print('Today {}'.format(Today['dayofweek']))
 print('Delta is {} day(s)'.format(Today['daycount'] - Target['daycount']))
+
+
+print("")
